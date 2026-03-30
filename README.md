@@ -7,6 +7,7 @@
 ### AI & Agents
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - 最簡單的微信 & 飛書 OpenClaw 開源桌面客戶端
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 10,000+ curated prompts for Google Gemini AI image generation
+- [f/prompts.chat](https://github.com/f/prompts.chat) - 世界最大的開源 AI Prompt 圖書館（143k+ stars），支援 ChatGPT、Claude、Gemini、Llama
 - [iam567/FLJopen](https://github.com/iam567/FLJopen) - Twitter/X 帳號驗證和社群舉報平台，內建 xAI Grok 分析
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Microsoft 開源語音 AI（TTS + ASR），已整合進 Hugging Face Transformers
 
