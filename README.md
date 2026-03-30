@@ -7,6 +7,7 @@
 ### AI & Agents
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - 最簡單的微信 & 飛書 OpenClaw 開源桌面客戶端
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 10,000+ curated prompts for Google Gemini AI image generation
+- [iam567/FLJopen](https://github.com/iam567/FLJopen) - Twitter/X 帳號驗證和社群舉報平台，內建 xAI Grok 分析
 
 ### OpenClaw
 - [win4r/lossless-claw-enhanced](https://github.com/win4r/lossless-claw-enhanced) - Enhanced OpenClaw
