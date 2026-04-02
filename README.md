@@ -5,6 +5,7 @@
 ## 📌 Pinned Repos
 
 ### AI & Agents
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - 一鍵啟動各種 AI Agent 的工具，支援 OpenClaw、nanobot、Cursor， 比 Claude Code 輕量 44 倍
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - 最簡單的微信 & 飛書 OpenClaw 開源桌面客戶端
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 10,000+ curated prompts for Google Gemini AI image generation
 - [f/prompts.chat](https://github.com/f/prompts.chat) - 世界最大的開源 AI Prompt 圖書館（143k+ stars），支援 ChatGPT、Claude、Gemini、Llama
