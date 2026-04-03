@@ -5,6 +5,7 @@
 ## 📌 Pinned Repos
 
 ### AI & Agents
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - 免費開源的螢幕錄製工具，Screen Studio 替代品，無浮水印、可商用
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - 用 AI Agent 操作 Excel 檔案的 MCP 伺服器，支援公式、圖表、樞紐分析表
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - 一鍵啟動各種 AI Agent 的工具，支援 OpenClaw、nanobot、Cursor， 比 Claude Code 輕量 44 倍
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - 最簡單的微信 & 飛書 OpenClaw 開源桌面客戶端
