@@ -5,6 +5,7 @@
 ## 📌 Pinned Repos
 
 ### AI & Agents
+- [AskRoundtable/expert-skills](https://github.com/AskRoundtable/expert-skills) - 給 AI 載入真實專家思考框架的工具（蒙格、Naval、費曼、卡尼曼、保羅 Graham）
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - 免費開源的螢幕錄製工具，Screen Studio 替代品，無浮水印、可商用
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - 用 AI Agent 操作 Excel 檔案的 MCP 伺服器，支援公式、圖表、樞紐分析表
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - 一鍵啟動各種 AI Agent 的工具，支援 OpenClaw、nanobot、Cursor， 比 Claude Code 輕量 44 倍
